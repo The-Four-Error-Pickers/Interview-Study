@@ -10,7 +10,6 @@
     <td align="center"><a href="https://github.com/Be-HinD"><img src="https://avatars.githubusercontent.com/Be-HinD" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/ChaNyeok1225"><img src="https://avatars.githubusercontent.com/ChaNyeok1225" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/hoing97s"><img src="https://avatars.githubusercontent.com/hoing97s" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/kimhaechang1"><img src="https://avatars.githubusercontent.com/kimhaechang1" width="130px;" alt=""></a></td>
  </tr>
 </table>
 
